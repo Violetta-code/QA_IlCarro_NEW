@@ -1,0 +1,22 @@
+11:26:29.049 INFO  manager.ApplManager -- All tests runs in Chrome Browser
+11:26:30.402 INFO  manager.ApplManager -- LINK ==> https://icarro-v1.netlify.app/search
+11:26:40.493 INFO  TestBase -- Success login started ===> 
+[solodka1998@mail.ru]
+[Atteloiv123!]
+
+11:26:42.842 INFO  TestBase -- Finish testing !!!!!!
+11:26:42.946 INFO  TestBase -- Success login started ===> 
+[solodka19@mail.ru]
+[Atteloiv123!]
+
+11:26:44.100 INFO  TestBase -- Finish testing !!!!!!
+11:26:44.289 INFO  TestBase -- Success login started ===> 
+[viola3@gmail.com]
+[Atteloiv123!]
+
+11:26:45.448 INFO  TestBase -- Finish testing !!!!!!
+11:26:45.539 INFO  TestBase -- Success login started ===> 
+[via@mail.ru]
+[Atteloiv123!]
+
+11:26:46.621 INFO  TestBase -- Finish testing !!!!!!
